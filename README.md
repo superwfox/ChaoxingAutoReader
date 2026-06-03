@@ -1,9 +1,10 @@
-##  这是一个专为 `超星学习通` 阅读任务准备的自动阅读项目，
+###  这是一个专为 `超星学习通` 阅读任务准备的自动阅读项目，
 
-你可以直接复制下面的js至 `TemperMonkey(win)`/`UserScripts(mac)` 进行使用。
+### 你可以直接复制下面的js至 `TemperMonkey(win)`/`UserScripts(mac)` 进行使用。
 
+---
 
-
+# UserScripts(mac)
 ```js  js adapt for Safari
 // ==UserScript==
 // @name         超星学习通自动阅读脚本 (Safari 兼容优化版)
