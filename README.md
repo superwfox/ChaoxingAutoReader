@@ -26,9 +26,6 @@
     const scrollSpeed = 12000;
     // 翻页检查间隔时间（秒） - 120秒
     const pageTime = 120;
-
-    // 仅在实际包含内容的文档中运行，避免在无用的外层框架中白跑
-    // 超星的内容通常在包含特定 class 或元素的页面中
     console.log("阅读脚本已注入层级:", window.location.href);
 
     // 1. 自动滚动逻辑 (直接在当前上下文中执行)
@@ -164,7 +161,6 @@
 
             console.log("已到达页面底部，开始寻找下一页按钮...");
 
-            // 🎯 核心修改：将你截图提取的 '.nodeItem.r' 放在最高优先级
             const nextSelectors = [
                 '.nodeItem.r',      // 根据截图精确定位
                 '.nextBtn',         // 备用：老版本
