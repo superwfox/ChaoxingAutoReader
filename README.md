@@ -11,7 +11,7 @@
 // @namespace    https://mooc1.chaoxing.com/
 // @version      1.5
 // @description  兼容Safari跨域限制，自动滚动并在触底后精准匹配翻页按钮
-// @author       AI Bot
+// @author       Sudark
 // @license      MIT
 // @match        *://*.chaoxing.com/*
 // @match        *://*.edu.cn/*
