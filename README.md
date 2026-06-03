@@ -1,4 +1,4 @@
-##  这是一个专为 '超星学习通' 阅读任务准备的自动阅读项目，你可以直接复制下面的js至 'TemperMonkey(win)'/'UserScripts(mac)' 进行使用。
+##  这是一个专为 `超星学习通` 阅读任务准备的自动阅读项目，你可以直接复制下面的js至 `TemperMonkey(win)`/`UserScripts(mac)` 进行使用。
 
 ---
 
